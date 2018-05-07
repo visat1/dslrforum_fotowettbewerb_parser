@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: DslrForumFotowettbewerb
+Bundle-SymbolicName: DslrForumFotowettbewerb; singleton:=true
+Bundle-Version: 1.0.1
+Bundle-Activator: at.vis.fotowettbewerb.Activator
+Bundle-Vendor: vis.at
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Bundle-ActivationPolicy: lazy
+Bundle-ClassPath: .
